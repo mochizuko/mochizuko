@@ -21,4 +21,3 @@ Hi I'm Lance, but you can call me Mochi. I'm a BSIS student and an aspiring Netw
 ---
 [![](https://komarev.com/ghpvc/?username=mochizuko&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
